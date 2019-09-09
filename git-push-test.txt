@@ -1,2 +1,2 @@
 git-push-test
-git merge 哈哈哈哈
+git merge 呵呵呵
