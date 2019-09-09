@@ -1,2 +1,2 @@
 git-push-test
-git merge local
+git merge local and remote
